@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team Members
-permalink: /about/team
+permalink: /team/
 ---
 | Role | Name | Title | Institution |
 | --- | --- | --- |--- |

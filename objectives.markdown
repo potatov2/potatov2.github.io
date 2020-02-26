@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Objectives
-permalink: /about/objectives
+permalink: /Objectives/
 ---
 **Table 1.** Research objectives.
 
