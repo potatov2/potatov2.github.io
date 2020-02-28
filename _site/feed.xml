@@ -1,5 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-02-28T10:58:37-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Potato 2.0 Project</title><subtitle>Creating a new Paradigm for potato breeding
-</subtitle><author><name>The Buell lab</name><email>&lt;buell “at” msu.edu&gt;</email></author><entry><title type="html">Service Release 8.5</title><link href="http://localhost:4000/hydejack/2019-07-31-8.5.0/" rel="alternate" type="text/html" title="Service Release 8.5" /><published>2019-07-31T00:00:00-04:00</published><updated>2019-07-31T00:00:00-04:00</updated><id>http://localhost:4000/hydejack/8.5.0</id><content type="html" xml:base="http://localhost:4000/hydejack/2019-07-31-8.5.0/">&lt;p&gt;Service release 8.5 includes a number of obvious improvements made possible by changes in the way the web works.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-02-28T11:10:07-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Potato 2.0 Project</title><subtitle>Creating a new Paradigm for potato breeding
+</subtitle><author><name>The Buell lab</name><email>&lt;buell “at” msu.edu&gt;</email></author><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020-02-21-welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-02-21T09:56:22-05:00</published><updated>2020-02-21T09:56:22-05:00</updated><id>http://localhost:4000/jekyll/update/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020-02-21-welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>The Buell lab</name><email>&lt;buell “at” msu.edu&gt;</email></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Service Release 8.5</title><link href="http://localhost:4000/hydejack/2019-07-31-8.5.0/" rel="alternate" type="text/html" title="Service Release 8.5" /><published>2019-07-31T00:00:00-04:00</published><updated>2019-07-31T00:00:00-04:00</updated><id>http://localhost:4000/hydejack/8.5.0</id><content type="html" xml:base="http://localhost:4000/hydejack/2019-07-31-8.5.0/">&lt;p&gt;Service release 8.5 includes a number of obvious improvements made possible by changes in the way the web works.&lt;/p&gt;
 
 &lt;h2 id=&quot;better-dark-mode&quot;&gt;Better Dark Mode&lt;/h2&gt;
 &lt;p&gt;This service release includes a major improvement to dark mode, which is now matching the operating system’s default. This is already possible in Safari, and just this week a new version of Chrome shipped with this feature as well.&lt;/p&gt;
@@ -756,73 +772,4 @@ Compression
   &lt;li&gt;Fixed bug that caused layout to break in IE11.&lt;/li&gt;
   &lt;li&gt;Fixed bug that caused the project animation to “jump” when using long project titles.&lt;/li&gt;
   &lt;li&gt;No more empty attributes on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;img&lt;/code&gt; tags.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>The Buell lab</name><email>&lt;buell “at” msu.edu&gt;</email></author><summary type="html">In this release I’ve added a “Other Projects” section to the bottom of each project page, making it easier for users to navigate through your collection and discover other projects. Also, it’s now possible to display larger (data-) tables that were previously cut off (especially on mobile devices).</summary></entry><entry><title type="html">Third Party Scripts (v6.3)</title><link href="http://localhost:4000/hydejack/2017-06-06-third-party-scripts/" rel="alternate" type="text/html" title="Third Party Scripts (v6.3)" /><published>2017-06-06T00:00:00-04:00</published><updated>2017-06-06T00:00:00-04:00</updated><id>http://localhost:4000/hydejack/third-party-scripts</id><content type="html" xml:base="http://localhost:4000/hydejack/2017-06-06-third-party-scripts/">&lt;p&gt;This release makes including third party plugins easier.
-Until now, the push state approach to loading new pages has been interfering with embedded &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;script&lt;/code&gt; tags.
-This version changes this by simulating the sequential loading of script tags on a fresh page load.&lt;/p&gt;
-
-&lt;p&gt;This approach should work in a majority of cases, but can still cause problems with scripts that can’t be added more than once per page.
-If an issue can’t be resolved, there’s now the option to disable push state by setting &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;disable_push_state: true&lt;/code&gt; in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;whats-happening&quot;&gt;What’s happening?&lt;/h2&gt;
-&lt;p&gt;The problem is as follows:
-When the browser encounters a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;script&lt;/code&gt; tag while parsing a HTML page it will stop (possibly to make a request to fetch
-an external script) and then execute the code before continuing parsing the page
-(it’s easy to how this can make your page really slow, but that’s a different topic).&lt;/p&gt;
-
-&lt;p&gt;In any case, due of this behavior you can do things like include jQuery,
-then run code that depends on jQuery in the next script tag:&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;.../jquery.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;script&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#tabs&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;someJQueryFunction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// works&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;I’d consider this an anti-pattern for the reason mentioned above,
-but it remains common and has the advantage of being easy to understand.&lt;/p&gt;
-
-&lt;p&gt;However, things break when Hydejack dynamically inserts new content into the page.
-It works fine for standard markdown content like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;p&lt;/code&gt; tags,
-but when inserting &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;script&lt;/code&gt; tags the browser will execute them immediately and in parallel,
-because in most cases this is what you’d want.
-However, this means that &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$('#tabs').someJQueryFunction();&lt;/code&gt; will run while the HTTP request for jQuery is still
-in progress — and we get an error that &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$&lt;/code&gt; isn’t defined, or similar.&lt;/p&gt;
-
-&lt;p&gt;From this description the solution should be obvious: Insert the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;script&lt;/code&gt; tags one-by-one,
-to simulate how they would get executed if it was a fresh page request.
-In fact this is how Hydejack is now handling things (and thanks to rxjs’ &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;concatMap&lt;/code&gt; it was easy to implement),
-but unfortunately this is not a magic solution that can fix all problems:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Some scripts may throw when running on the same page twice&lt;/li&gt;
-  &lt;li&gt;Some scripts rely on the document’s &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;load&lt;/code&gt; event, which has fired long before the script was inserted&lt;/li&gt;
-  &lt;li&gt;unkown-unkowns&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;But what will “magically” solve all third party script problems, is disabling dynamic page loading altogether,
-for which there’s now an option.
-To make this a slightly less bitter pill to swallow,
-there’s now a CSS-only “intro” animation that looks similar to the dynamic one.
-Maybe you won’t even notice the difference.&lt;/p&gt;
-
-&lt;h2 id=&quot;patch-notes&quot;&gt;Patch Notes&lt;/h2&gt;
-&lt;h3 id=&quot;minor&quot;&gt;Minor&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Support embedding &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;script&lt;/code&gt; tags in markdown content&lt;/li&gt;
-  &lt;li&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;disable_push_state&lt;/code&gt; option to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;disable_drawer&lt;/code&gt; option to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Rename syntax highlighting file to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;syntax.scss&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Added &lt;a href=&quot;/docs/scripts/&quot;&gt;chapter on third party scripts&lt;/a&gt; to documentation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;design&quot;&gt;Design&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Add subtle intro animation&lt;/li&gt;
-  &lt;li&gt;Rename “Check out X for more” to “See X for more” on welcome* page&lt;/li&gt;
-  &lt;li&gt;Replace “»” with “→” in “read more”-type of links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;fixes&quot;&gt;Fixes&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fix default color in gem-based theme&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>The Buell lab</name><email>&lt;buell “at” msu.edu&gt;</email></author><summary type="html">This release makes including third party plugins easier. Until now, the push state approach to loading new pages has been interfering with embedded script tags. This version changes this by simulating the sequential loading of script tags on a fresh page load.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>The Buell lab</name><email>&lt;buell “at” msu.edu&gt;</email></author><summary type="html">In this release I’ve added a “Other Projects” section to the bottom of each project page, making it easier for users to navigate through your collection and discover other projects. Also, it’s now possible to display larger (data-) tables that were previously cut off (especially on mobile devices).</summary></entry></feed>
