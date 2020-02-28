@@ -47,8 +47,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Test
-    url:                /404
   - title:             About
     url:               /about/
 
