@@ -43,7 +43,7 @@ author:
   name:                The Buell lab
   email:               <buell “at” msu.edu>
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+twitter:             TheBuellLab
 
 # Add links to the sidebar.
 menu:
@@ -295,10 +295,10 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
+social:
+  name: TheBuellLab                
+  links:
+     - https://twitter.com/TheBuellLab
 #     - https://github.com/<username>
 
 
