@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Potato 2.0 Project
+cover: true
 ---
 
 Project Title: Creating a new paradigm for potato breeding based on
