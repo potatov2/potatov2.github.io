@@ -49,6 +49,8 @@ twitter:             TheBuellLab
 menu:
   - title:             About
     url:               /about/
+  - title:             The Team
+    url: /Team/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -296,7 +298,7 @@ plugins:
 
 # Used on index and about sites
 social:
-  name: TheBuellLab                
+  name: TheBuellLab
   links:
      - https://twitter.com/TheBuellLab
 #     - https://github.com/<username>
