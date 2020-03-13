@@ -41,9 +41,9 @@ logo:
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                The Buell lab
-  email:               <buell “at” msu.edu>
+#  email:               <buell “at” msu.edu>
   # Used by `jekyll-seo-tag`:
-twitter:             TheBuellLab
+#twitter:             TheBuellLab
 
 # Add links to the sidebar.
 menu:
@@ -297,10 +297,10 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-social:
-  name: TheBuellLab
-  links:
-     - https://twitter.com/TheBuellLab
+#social:
+#  name: TheBuellLab
+#  links:
+#     - https://twitter.com/TheBuellLab
 #     - https://github.com/<username>
 
 
