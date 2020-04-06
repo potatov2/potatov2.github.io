@@ -14,7 +14,7 @@ Stakeholders have told us that the three most significant constraints to success
 # Research Objectives
 
 
-1. Determine the genetic basis and environmental stability of self-fertility.
+1. [Determine the genetic basis and environmental stability of self-fertility.](/Objective1)
 2. Develop self-fertile, diploid germplasm that captures the allelic diversity of tetraploid cultivars.
 3. Create inbred lines that are fixed (homozygous) for key traits.
 4. Develop agronomic and economic frameworks for incorporating TPS into the potato production system and assessing its impacts
