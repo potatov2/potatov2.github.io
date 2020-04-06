@@ -51,7 +51,7 @@ menu:
     url:               /about/
   - title:             The Team
     url:               /team/
-  - title:             Publications
+  - title:             publications
     url:               /publications/
 
 # Add links to the footer.
