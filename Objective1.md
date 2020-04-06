@@ -7,6 +7,6 @@ throughput method to carry out early generaRon selection for self-compatibility.
 We are characterizing pollen germination, stylar pollen tube growth, fruit set and set seed to permit genetic mapping of these traits integral to self-fertility.
 
 <figure>
-  <img alt="An image with a caption" src="/Natalie.png" class="lead" data-width="800" data-height="100" />
+  <img alt="An image with a caption" src="Natalie.png" class="lead" data-width="800" data-height="100" />
   <figcaption>Natalie selfing the Solanum chacoense F2 SC mapping population</figcaption>
 </figure>
