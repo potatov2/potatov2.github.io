@@ -28,15 +28,34 @@ title: The Team
 
 **For more information contact:**
 
-Jeff Endelman: endelman”at” wisc.edu
+Jeff Endelman
 
-Dave Douches: douches “at” msu.edu
+endelman ”at” wisc.edu
 
-Shelley Jansky: shelley.jansky “at” ars.usda.gov
+***
+<img src="/Dave_Douches3.jpeg" alt="Not Pictured" style="width:100px;height;100px;">
+Dave Douches
 
-Paul Bethke: paul.bethke”at”ars.usda.gov
+douches “at” msu.edu
 
-Laura Shannon: lmshannon “at” umn.edu
+***
+<img src="/Shelley_Jansky.jpg" alt="Not Pictured" style="width:125px;height;125px;">
+Shelley Jansky
+
+shelley.jansky “at” ars.usda.gov
+
+***
+Paul Bethke
+
+paul.bethke”at”ars.usda.gov
+
+***
+<img src="/Laura_Shannon.jpeg" alt="Not Pictured" style="width:150px;height;150px;">
+Laura Shannon
+
+lmshannon “at” umn.edu
+
+***
 
 **For issues with the website contact:**
 
