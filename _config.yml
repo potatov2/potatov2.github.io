@@ -51,6 +51,8 @@ menu:
     url:               /about/
   - title:             The Team
     url:               /team/
+  - title:             Publications
+    url:               /Publications/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
