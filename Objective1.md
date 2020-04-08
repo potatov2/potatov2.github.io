@@ -4,7 +4,8 @@ title: Research objective 1
 ---
 <figure>
 <img alt="Natalie" src="natalie_combined.png" style="width:700px;height:500;"/>
-<figcaption> a caption </figcaption>
+<figcaption> <b>Left:</b> A microscope image of S. chacoense USDA8380-1 48 hours post pollination. <b>Right:</b>
+PhD Candidate Natalie Kaiser selfing the Solanum chacoense F2 SC mapping population.</figcaption>
 </figure>
 
 
