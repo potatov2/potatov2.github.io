@@ -3,16 +3,16 @@ layout: page
 title: Research objective 1
 ---
 <figure>
-<img alt="Natalie" src="/Natalie_combined.png" style="width:700px;height:500;"/>
+<img alt="Natalie" src="natalie_combined.png" style="width:700px;height:500;"/>
 <figcaption> a caption </figcaption>
 </figure>
 
 <figure>
-  <img alt="An image with a caption" src="/Natalie_combined.png" class="lead" data-width="600" data-height="50" />
+  <img alt="An image with a caption" src="natalie_combined.png" class="lead" data-width="600" data-height="50" />
   <figcaption>A caption to an image.</figcaption>
 </figure>
 
-![Full-width image](/Natalie_combined.png){:.lead data-width="400" data-height="50"}
+![Full-width image](natalie_combined.png){:.lead data-width="400" data-height="50"}
 A caption for an image.
 {:.figure}
 
