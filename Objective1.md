@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research objective 1
+title: Research Objective 1
 ---
 <figure>
 <img alt="Natalie" src="/natalie_combined.png" style="width:700px;height:500;"/>
