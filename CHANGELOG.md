@@ -1,4 +1,12 @@
 # CHANGELOG
+
+#15April2020
+  -added complete university names on team page
+  -fixed typos
+
+
+
+
 # 08Apr2020
 
   -publications page added
