@@ -1,5 +1,7 @@
 # CHANGELOG
 
+#20April2020 
+  - resized images on team page
 #15April2020
   -added complete university names on team page
   -fixed typos
