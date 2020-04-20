@@ -49,6 +49,6 @@ Laura Shannon: lmshannon “at” umn.edu
 Robin Buell: buell “at” msu.edu
 
 
-[Shelley]: /Shelley_Jansky.jpg
-[Dave]: /Dave_Douches3.jpeg
-[Laura]: /Laura_Shannon.png
+[Shelley]: /Shelley_Jansky_crop.jpg
+[Dave]: /Dave_Douches3_crop.jpeg
+[Laura]: /Laura_Shannon_crop.jpeg
