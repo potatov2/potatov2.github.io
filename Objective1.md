@@ -4,7 +4,7 @@ title: Research Objective 1
 ---
 <figure>
 <img alt="Natalie" src="/natalie_combined.png" style="width:700px;height:500;"/>
-<figcaption> <b>Left:</b> A microscope image of S. chacoense USDA8380-1 48 hours post pollination. <b>Right:</b>
+<figcaption> <b>Left:</b> A microscope image showing the growth of pollen through the female portion of a potato flower. Pollen grains can be seen at the top of the flower in the upper right of the image. Filamentous pollen tubes are growing through the style from the upper right to the lower left and will fertilize egg cells within the flower to produce seeds. The image was taken 48 hours after pollination. This illustrates an example of self-fertility because the both the pollen and the flower came from plants that are genetically identical. <b>Right:</b>
 PhD Candidate Natalie Kaiser selfing the Solanum chacoense F2 SC mapping population.</figcaption>
 </figure>
 
