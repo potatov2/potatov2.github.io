@@ -9,3 +9,5 @@ In Potato breeding, fewer chromosomes may be better (Shelley Jansky) 2007. <a hr
 Why is Ploidy in Potato Important? (Shelley Jansky) 2008. <a href="https://issuu.com/bctater/docs/1804_standard?e=16584708/60163026" target="_blank">Read the article here</a> (see page 54)
 
 Are diploid potatoes in your future? (Paul Bethke and Shelley Jansky) 2020. <a href="https://spudman.com/article/are-diploid-potatoes-in-your-future/ " target="_blank">Read the article here</a>
+
+Shelley Jansky and Paul Bethke talk about the Potato 2.0 Project with Potatoes USA 2020. <a href="https://storymaps.arcgis.com/stories/e98fbf3ab52449259b4c96384814fab0" target="_blank">Read the article here</a> 
