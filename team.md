@@ -16,7 +16,7 @@ title: The Team
 | | Co-PI | Walter de Jong: Breeding, genetics | Professor | Cornell University
 | | Co-PI | Sagar Sathuvalli: Breeding, genetics | Assistant Professor | Oregon State University
 | | Co-PI | Guanming Shi: Economics | Professor | University of Wisconsin-Madison
-| | Co-PI | Ek Han Tan Breeding, genetics | Assistant Professor | University of Maine
+|![han][Han] | Co-PI | Ek Han Tan Breeding, genetics | Assistant Professor | University of Maine
 | | Co-PI | Isabel Vales: Breeding, genetics | Associate Professor | Texas A&M University
 | | Collaborator | Max Feldman: Breeding, genetics | Research Geneticist | USDA-ARS
 | | Collaborator | David Holm: Breeding, genetics | Professor | Colorado State University
@@ -52,3 +52,4 @@ Robin Buell: buell “at” msu.edu
 [Shelley]: /Shelley_Jansky_crop.jpg
 [Dave]: /Dave_Douches3_crop.jpeg
 [Laura]: /Laura_Shannon_crop.jpeg
+[Han]: /Han_Square.jpg
