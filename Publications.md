@@ -10,4 +10,6 @@ Why is Ploidy in Potato Important? (Shelley Jansky) 2008. <a href="https://issuu
 
 Are diploid potatoes in your future? (Paul Bethke and Shelley Jansky) 2020. <a href="https://spudman.com/article/are-diploid-potatoes-in-your-future/ " target="_blank">Read the article here</a>
 
-Shelley Jansky and Paul Bethke talk about the Potato 2.0 Project with Potatoes USA 2020. <a href="https://storymaps.arcgis.com/stories/e98fbf3ab52449259b4c96384814fab0" target="_blank">Read the article here</a> 
+Shelley Jansky and Paul Bethke talk about the Potato 2.0 Project with Potatoes USA 2020. <a href="https://storymaps.arcgis.com/stories/e98fbf3ab52449259b4c96384814fab0" target="_blank">Read the article here</a>
+
+Are hybrid potatoes in your future? Shelley Jansky and Paul Bethke talk about hybrid potatoes with the USDA 2020. <a href="https://www.ars.usda.gov/oc/utm/are-hybrid-potatoes-in-your-future/" target="_blank">Read the article here</a> 
