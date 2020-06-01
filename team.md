@@ -6,7 +6,7 @@ title: The Team
 
 | | Role | Name | Title | Institution |
 | --- | --- | --- | --- |--- |
-| | PD | Jeff Endelman: Breeding, genetics | Associate Professor | University of Wisconsin-Madison
+| ![jeff][Jeff]| PD | Jeff Endelman: Breeding, genetics | Associate Professor | University of Wisconsin-Madison
 |![dave][Dave] | Co-PD | David Douches: Breeding, genetics | Professor | Michigan State University
 | ![shelly][Shelley]| Co-PD | Shelley Jansky: Breeding, genetics | Research Geneticist | USDA-ARS
 | | PI | Paul Bethke: Physiology | Research Geneticist | USDA-ARS
@@ -53,3 +53,4 @@ Robin Buell: buell “at” msu.edu
 [Dave]: /Dave_Douches3_crop.jpeg
 [Laura]: /Laura_Shannon_crop.jpeg
 [Han]: /Han_Square.jpg
+[Jeff]: /Endelman_2020.jpg
