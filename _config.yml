@@ -53,8 +53,8 @@ menu:
     url:               /team/
   - title:             Publications
     url:               /Publications/
-  - title:             News
-    url:               /blog/
+#  - title:             News
+#    url:               /blog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
