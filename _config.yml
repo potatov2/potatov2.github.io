@@ -54,7 +54,7 @@ menu:
   - title:             Publications
     url:               /Publications/
   - title:             News
-    url:               /news/
+    url:               /News/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -72,7 +72,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /news/page-:num/
+paginate_path:         /News/page-:num/
 
 
 # Customizaton
