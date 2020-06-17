@@ -17,12 +17,6 @@ title: The Team
 | | Co-PI | Sagar Sathuvalli: Breeding, genetics | Assistant Professor | Oregon State University
 | | Co-PI | Guanming Shi: Economics | Professor | University of Wisconsin-Madison
 |![han][Han] | Co-PI | Ek Han Tan Breeding, genetics | Assistant Professor | University of Maine
-| | Co-PI | Isabel Vales: Breeding, genetics | Associate Professor | Texas A&M University
-| | Collaborator | Max Feldman: Breeding, genetics | Research Geneticist | USDA-ARS
-| | Collaborator | David Holm: Breeding, genetics | Professor | Colorado State University
-| | Collaborator | Rich Novy: Breeding, genetics | Research Geneticist | USDA-ARS
-| | Collaborator | Asunta Thompson: Breeding, genetics | Associate Professor | North Dakota State University
-| | Collaborator | Craig Yencho: Breeding, genetics | Professor | North Carolina State University
 {:.stretch-table.dl-table}
 
 
