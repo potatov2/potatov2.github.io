@@ -12,4 +12,13 @@ Are diploid potatoes in your future? (Paul Bethke and Shelley Jansky) 2020. <a h
 
 Shelley Jansky and Paul Bethke talk about the Potato 2.0 Project with Potatoes USA 2020. <a href="https://storymaps.arcgis.com/stories/e98fbf3ab52449259b4c96384814fab0" target="_blank">Read the article here</a>
 
-Are hybrid potatoes in your future? Shelley Jansky and Paul Bethke talk about hybrid potatoes with the USDA 2020. <a href="https://www.ars.usda.gov/oc/utm/are-hybrid-potatoes-in-your-future/" target="_blank">Read the article here</a> 
+Are hybrid potatoes in your future? Shelley Jansky and Paul Bethke talk about hybrid potatoes with the USDA 2020. <a href="https://www.ars.usda.gov/oc/utm/are-hybrid-potatoes-in-your-future/" target="_blank">Read the article here</a>
+
+
+**Videos:**
+
+Phil Lempert Interviews Shelley Jansky and David Douches At The 2018 Potato Expo. <a href="https://www.youtube.com/embed/Fk-elv31HUo">Watch the video here</a>
+
+**Posters:**
+
+Potato 2.0 project poster at the 2020 Potato expo. <a href="/Potato Expo Poster 2020.pdf">Read the poster here</a>
