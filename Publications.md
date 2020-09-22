@@ -19,7 +19,7 @@ Are hybrid potatoes in your future? Shelley Jansky and Paul Bethke talk about hy
 
 Phil Lempert Interviews Shelley Jansky and David Douches At The 2018 Potato Expo. <a href="https://www.youtube.com/embed/Fk-elv31HUo">Watch the video here</a>
 
-Potatoes USA features the Potato 2.0 project and answers frequently asked questions about the project. [Watch out the video here.](https://www.youtube.com/watch?v=TY64kk_ZQ1k&feature=youtu.be&inf_contact_key=4b0c428d037515548838a1dc22dcffd409c74070ac2bf3cfa7869e3cfd4ff832)
+Potatoes USA features the Potato 2.0 project and answers frequently asked questions about the project. [Watch the video here.](https://www.youtube.com/watch?v=TY64kk_ZQ1k&feature=youtu.be&inf_contact_key=4b0c428d037515548838a1dc22dcffd409c74070ac2bf3cfa7869e3cfd4ff832)
 
 
 
