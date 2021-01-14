@@ -21,4 +21,4 @@ Stakeholders have told us that the three most significant constraints to success
 
 
 # Funding:
-This project is funded by the USDA NIFA Speciality Crop Research Initiative grant (2019-51181-30021).
+This project is funded by the USDA NIFA Specialty Crop Research Initiative grant (2019-51181-30021).
