@@ -8,7 +8,6 @@ title: The Team
 | --- | --- | --- | --- |--- |
 | ![jeff][Jeff]| PD | Jeff Endelman: Breeding, genetics | Associate Professor | University of Wisconsin-Madison
 |![dave][Dave] | Co-PD | David Douches: Breeding, genetics | Professor | Michigan State University
-| ![shelly][Shelley]| Co-PD | Shelley Jansky: Breeding, genetics | Research Geneticist | USDA-ARS
 | | PI | Paul Bethke: Physiology | Research Geneticist | USDA-ARS
 | | PI | C. Robin Buell: Genomics | Professor | Michigan State University
 |![laura][Laura]| PI | Laura Shannon: Breeding, genetics | Assistant Professor | University of Minnesota
@@ -17,6 +16,7 @@ title: The Team
 | | Co-PI | Sagar Sathuvalli: Breeding, genetics | Assistant Professor | Oregon State University
 | | Co-PI | Guanming Shi: Economics | Professor | University of Wisconsin-Madison
 |![han][Han] | Co-PI | Ek Han Tan Breeding, genetics | Assistant Professor | University of Maine
+| ![shelly][Shelley]| Collaborator | Shelley Jansky: Breeding, genetics | Research Geneticist | USDA-ARS (Retired)
 {:.stretch-table.dl-table}
 
 
